@@ -1,0 +1,4 @@
+pandas
+numpy
+script_learn
+flask
